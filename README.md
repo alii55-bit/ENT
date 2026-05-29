@@ -80,3 +80,10 @@ Current Development
 ENT
 
 Toward coordinated structural sustainability within the existing world.
+Scientific Archive
+
+Zenodo:
+https://zenodo.org/records/20225822
+
+DOI:
+https://doi.org/10.5281/zenodo.20225822
