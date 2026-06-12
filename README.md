@@ -58,7 +58,7 @@ Every individual can participate through:
 Scientific Archive
 
 Zenodo Archive:
-[Add your Zenodo links here]
+[https://zenodo.org/communities/ent]
 
 ORCID:
 [ https://orcid.org/0009-0002-4795-1199]
