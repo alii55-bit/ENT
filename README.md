@@ -87,3 +87,66 @@ https://zenodo.org/records/20225822
 
 DOI:
 https://doi.org/10.5281/zenodo.20225822
+---
+
+Research Archive
+
+Foundational Publications
+
+ENT-03 — Structural Status Diagnosis Principle
+https://doi.org/10.5281/zenodo.20648092
+
+ENT-04 — Distinction Between Current Position and Actual Growth Status
+https://doi.org/10.5281/zenodo.20648151
+
+ENT-05 — Minimum Growth Environment Principle
+https://doi.org/10.5281/zenodo.20648370
+
+ENT-06 — Global Resource Distribution Principle
+https://doi.org/10.5281/zenodo.20648495
+
+ENT-07 — Conscious Energy Conversion Principle
+https://doi.org/10.5281/zenodo.20649897
+
+ENT-08 — Planetary Resource Coordination Principle
+https://doi.org/10.5281/zenodo.20649978
+
+ENT-09 — Planetary Growth Opportunity Principle
+https://doi.org/10.5281/zenodo.20650050
+
+Additional ENT Publications
+
+https://doi.org/10.5281/zenodo.20650127
+
+https://doi.org/10.5281/zenodo.20650357
+
+https://doi.org/10.5281/zenodo.20650403
+
+https://doi.org/10.5281/zenodo.20650484
+
+https://doi.org/10.5281/zenodo.20650513
+
+https://doi.org/10.5281/zenodo.20650593
+
+https://doi.org/10.5281/zenodo.20650626
+
+---
+
+Scientific Profiles
+
+ORCID
+https://orcid.org/0009-0002-4795-1199
+
+Zenodo Community
+https://zenodo.org/communities/ent/
+
+Zenodo Author Profile
+https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Jandaghian%2C%20Alireza%22
+
+---
+
+Long-Term Vision
+
+ENT studies humanity, resources, growth systems, and civilization as components of an interconnected planetary system.
+
+The long-term objective is the development of a unified scientific framework capable of improving structural stability, coordinated human development, reduction of exhaustion and energy loss, and sustainable planetary growth.
