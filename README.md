@@ -18,7 +18,13 @@ ENT is a global scientific framework for the study of:
 within the existing world.
 
 ENT examines human beings, biological structures, cellular systems, and structural patterns of the surrounding world as interconnected components of a living coordinated system.
+Research Status
 
+ENT is an active scientific framework currently consisting of a growing archive of DOI-registered publications.
+
+The framework studies human development, structural stability, resource distribution, conscious energy conversion, planetary coordination, and systemic awareness within an interconnected planetary human system of more than eight billion people.
+
+Current research development includes a structured publication sequence from ENT-03 through ENT-11.
 ---
 
 Core Principles
@@ -67,13 +73,27 @@ Google Scholar:
 [Add your Scholar link here]
 
 ---
+Planetary Human System
 
+ENT views humanity as an interconnected planetary human system rather than a collection of isolated populations.
+
+Within this perspective, resources, knowledge, energy, development opportunities, and structural conditions influence growth across the entire system.
+
+The framework studies methods for reducing structural erosion, improving developmental opportunities, increasing systemic awareness, and supporting long-term planetary stability.
+Current Development
 Current Development
 
-- Global activation has started
-- Scientific archive is expanding
-- Structural measurement system is under development
-- Human participation network is forming
+• ENT scientific archive is expanding
+
+• DOI-registered publications are publicly available
+
+• Structural assessment models are under development
+
+• Global participation and translation efforts are growing
+
+• Planetary development principles are being documented
+
+• Research currently extends through ENT-11
 
 ---
 
