@@ -113,7 +113,9 @@ https://doi.org/10.5281/zenodo.20649978
 
 ENT-09 — Planetary Growth Opportunity Principle
 https://doi.org/10.5281/zenodo.20650050
+ENT-10 — Structural Position and System Awareness Principle
 
+ENT-11 — Systemic Responsibility Principle
 Additional ENT Publications
 
 https://doi.org/10.5281/zenodo.20650127
